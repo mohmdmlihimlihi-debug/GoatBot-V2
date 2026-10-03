@@ -16,7 +16,7 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": [
+  "adminBot": ["61592523556970"]
     "",
     ""
   ],
@@ -26,7 +26,7 @@
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "Your_Bot_Name",
-  "prefix": "/",
+  "prefix": "zbi",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
